@@ -1,0 +1,12 @@
+//Q1(a)
+Triangle t = new Triangle();
+Square s = new Square();
+Circle c = new Circle();
+
+Rocket r = new Rocket(t, s, c);
+
+c.setColour(OUColour.BLACK); //for testing we can make the jet visible
+
+//Q1(b)
+r.moveRocketBy(100);
+r.moveRocketBy(200);

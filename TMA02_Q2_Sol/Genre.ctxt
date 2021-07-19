@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=aGenreName\ aOriginated
+comment0.target=Genre(java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Genre\r\n
+comment1.params=aName
+comment1.target=void\ setGenreName(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getGenreName()
+comment2.text=\r\n\ Getter\ method\ for\ genre\r\n
+comment3.params=aOrigin
+comment3.target=void\ setOriginated(int)
+comment3.text=\r\n\ Setter\ method\ for\ date\ when\ genre\ originated\r\n
+comment4.params=
+comment4.target=int\ getOriginYear()
+comment4.text=\r\n\ Getter\ method\ for\ returning\ date\ when\ genre\ originated\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Returns\ a\ description\ of\ this\ object\ as\ a\ string.\r\n
+numComments=6

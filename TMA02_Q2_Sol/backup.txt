@@ -1,0 +1,4 @@
+Genre genre1 = new Genre ("rock ", 1950); 
+Band band = new Band ("the band", 1998, "blackpool", genre1);
+band.toString();
+genre1.toString();

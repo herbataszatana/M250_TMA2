@@ -1,0 +1,13 @@
+
+
+Dog d = new Dog("Herbie", "Black retriever");
+
+d.decrementHappiness();
+d.incrementHappiness();
+d.decrementEnergyLevel();
+d.incrementEnergyLevel();
+
+d.getHappiness();
+d.walkies();
+d.sleep();
+d.noWalkies();
